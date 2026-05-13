@@ -64,7 +64,7 @@ h1 {
     background: var(--color-black);
     color:white;
     border:none;
-    padding:14px 28px;
+    padding:14px 20px;
     transition:0.3s;
     border: solid 2px var(--color-black);
 }
@@ -78,7 +78,7 @@ h1 {
     background:transparent;
     color: var(--color-white);
     border: 2px solid var(--color-white);
-    padding:14px 28px;
+    padding:14px 20px;
     transition:0.3s;
 }
 
@@ -111,6 +111,10 @@ h1 {
 .container1 img {
     height: 200px;
     width: 200px; 
+}
+
+.subtitle {
+    margin-top: 10px;
 }
 
 .card {
